@@ -1,0 +1,11 @@
+libOpenCL.so
+libadsprpc.so
+libcdsprpc.so
+libfastcvopt.so
+libhta_controller.so
+libhta_hexagon_runtime.so
+libnpu.so
+libqti-perfd-client.so
+libsdsprpc.so
+libtensorflow_inference_native.so
+unnhal-acc-hta.so
