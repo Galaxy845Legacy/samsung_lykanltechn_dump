@@ -1,0 +1,9 @@
+/data/app/SecEmail_P/SecEmail_P.apk
+/data/app/SmartSwitch/SmartSwitch.apk
+/data/app/SAssistant_downloadable/SAssistant_downloadable.apk
+/data/app/SHealth6PAR/SHealth6PAR.apk
+/data/app/SecCalculator_R/SecCalculator_R.apk
+/data/app/SamsungConnect/SamsungConnect.apk
+/data/app/SamsungMembers_CHN_P_Removable/SamsungMembers_CHN_P_Removable.apk
+/data/app/Notes33_Removable/Notes33_Removable.apk
+/data/app/VoiceNote_5.0/VoiceNote_5.0.apk
