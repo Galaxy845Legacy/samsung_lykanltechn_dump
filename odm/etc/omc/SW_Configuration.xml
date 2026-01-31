@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-W2019</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>CHC</MultiCode>
+    <CustomerDataSet>
+        <CSCName>W2019CHC</CSCName>
+        <CSCVersion>2CUK1</CSCVersion>
+        <NbCustomer>1</NbCustomer>
+        <CustomerData src="/Customer/CHC/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>CHC</CustomerCode>
+            <Version>SAOMC_SM-W2019_CHC_CHC_QQ_0015</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

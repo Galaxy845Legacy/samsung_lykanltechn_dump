@@ -1,0 +1,35 @@
+{
+  "update_version": 1,
+  "min_swver": "",
+  "note": "Overwriting EVS codec for CMCC",
+  "imsprofile_update": {
+    "profile": [
+      {
+        "name": "CMCC Mobile VoLTE",
+        "mnoname": "CMCC_CN",
+        "audio_codec": "AMRBE-WB,AMR-WB,AMRBE,AMR,DTMFWB,DTMF",
+        "enable_evs_codec": false,
+        "evs_bit_rate_send": "9.6-24.4",
+        "evs_bit_rate_receive": "9.6-24.4",
+        "evs_default_bitrate": "24.4",
+        "evs_bandwidth_send": "nb-swb",
+        "evs_bandwidth_receive": "nb-swb",
+        "evs_default_bandwidth": "nb-swb",
+        "evs_max_red": -1
+      },
+      {
+        "name": "CMCC Emergency",
+        "mnoname": "CMCC_CN",
+        "audio_codec": "AMRBE-WB,AMR-WB,AMRBE,AMR,DTMFWB,DTMF",
+        "enable_evs_codec": false,
+        "evs_bit_rate_send": "9.6-24.4",
+        "evs_bit_rate_receive": "9.6-24.4",
+        "evs_default_bitrate": "24.4",
+        "evs_bandwidth_send": "nb-swb",
+        "evs_bandwidth_receive": "nb-swb",
+        "evs_default_bandwidth": "nb-swb",
+        "evs_max_red": -1
+      }
+    ]
+  }
+}

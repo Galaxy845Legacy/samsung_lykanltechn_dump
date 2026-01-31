@@ -1,0 +1,7 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<openThemeFeature>
+    <preloadTheme>
+        <appIconPack SubLCDColorCode="1" addDefault="true">com.set.Twilight.common.appiconpack</appIconPack>
+        <appIconPack SubLCDColorCode="8" addDefault="true">com.set.Moonlight.common.appiconpack</appIconPack>
+    </preloadTheme>
+</openThemeFeature>
