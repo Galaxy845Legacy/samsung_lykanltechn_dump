@@ -1,0 +1,20 @@
+## lykanltezc-user 10 QP1A.190711.020 W2019ZCU2CUK1 release-keys
+- Manufacturer: samsung
+- Platform: sdm845
+- Codename: lykanltechn
+- Brand: samsung
+- Flavor: lykanltezc-user
+- Release Version: 10
+- Kernel Version: 4.9.186
+- Id: QP1A.190711.020
+- Incremental: W2019ZCU2CUK1
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: zh-CN
+- Screen Density: undefined
+- Fingerprint: samsung/lykanltezc/lykanltechn:10/QP1A.190711.020/W2019ZCU2CUK1:user/release-keys
+- OTA version: 
+- Branch: lykanltezc-user-10-QP1A.190711.020-W2019ZCU2CUK1-release-keys
+- Repo: samsung_lykanltechn_dump
